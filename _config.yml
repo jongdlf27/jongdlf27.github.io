@@ -44,10 +44,10 @@ blog:
   footer_content: JongIl's Dev Notes.
 
 disqus:
-  shortname: # 
-  public_key: # 
-google_tag_manager: # 
-addthis_public_id: #
+  shortname: "" # 
+  public_key: "" # 
+google_tag_manager: "" # 
+addthis_public_id: "" #
 
 paths:
   home: /
