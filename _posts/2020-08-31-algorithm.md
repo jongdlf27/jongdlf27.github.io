@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "알고리즘 제 0장: 알고리즘 공부를 시작하며?"
+title: "알고리즘 제 0장: 알고리즘 공부를 시작하며"
 description: "my journey to algorithm study"
 categories: [algorithm]
 tags: [c]
